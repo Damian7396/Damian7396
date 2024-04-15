@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Damian7396
-- 👀 I’m interested in SoC analysis
-- 🌱 I’m currently learning penetration testing
-- 💞️ I’m looking to collaborate on bug bounties
-- 📫 How to reach me either email, call, or text 
+- 👀 I’m interested in: SoC analysis
+- 🌱 I’m currently learning: penetration testing
+- 💞️ I’m looking to collaborate on: bug bounties
+- 📫 How to reach me: either email, call, or text 
 - ⚡ Certifications: Google cybersecurity
 
 <!---
